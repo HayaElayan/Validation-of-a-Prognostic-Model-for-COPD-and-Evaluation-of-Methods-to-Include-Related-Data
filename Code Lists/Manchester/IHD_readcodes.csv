@@ -1,0 +1,116 @@
+code,coding_system,description,entity,list_name,upload_date,group
+G3...00,Read,Ischaemic heart disease,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G30..00,Read,Acute myocardial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G300.00,Read,Acute anterolateral infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G301.00,Read,Other specified anterior myocardial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G301000,Read,Acute anteroapical infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G30..11,Read,Attack - heart,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G301100,Read,Acute anteroseptal infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G30..12,Read,Coronary thrombosis,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G30..13,Read,Cardiac rupture following myocardial infarction (MI),diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G30..14,Read,Heart attack,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G30..15,Read,MI - acute myocardial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G30..16,Read,Thrombosis - coronary,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G30..17,Read,Silent myocardial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G301z00,Read,Anterior myocardial infarction NOS,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G302.00,Read,Acute inferolateral infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G303.00,Read,Acute inferoposterior infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G304.00,Read,Posterior myocardial infarction NOS,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G305.00,Read,Lateral myocardial infarction NOS,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G306.00,Read,True posterior myocardial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G307.00,Read,Acute subendocardial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G307000,Read,Acute non-Q wave infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G307100,Read,Acute non-ST segment elevation myocardial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G308.00,Read,Inferior myocardial infarction NOS,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G309.00,Read,Acute Q-wave infarct,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G30A.00,Read,Mural thrombosis,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G30B.00,Read,Acute posterolateral myocardial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G30X.00,Read,Acute transmural myocardial infarction of unspecif site,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G30X000,Read,Acute ST segment elevation myocardial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G30y.00,Read,Other acute myocardial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G30y000,Read,Acute atrial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G30y100,Read,Acute papillary muscle infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G30y200,Read,Acute septal infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G30yz00,Read,Other acute myocardial infarction NOS,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G30z.00,Read,Acute myocardial infarction NOS,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G31..00,Read,Other acute and subacute ischaemic heart disease,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G310.00,Read,Postmyocardial infarction syndrome,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G310.11,Read,Dressler's syndrome,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G3...11,Read,Arteriosclerotic heart disease,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G311.00,Read,Preinfarction syndrome,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G311000,Read,Myocardial infarction aborted,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G311011,Read,MI - myocardial infarction aborted,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G311100,Read,Unstable angina,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G311.11,Read,Crescendo angina,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G311.12,Read,Impending infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G311.13,Read,Unstable angina,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G311.14,Read,Angina at rest,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G311200,Read,Angina at rest,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G311300,Read,Refractory angina,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G311400,Read,Worsening angina,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G311500,Read,Acute coronary syndrome,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G311z00,Read,Preinfarction syndrome NOS,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G3...12,Read,Atherosclerotic heart disease,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G312.00,Read,Coronary thrombosis not resulting in myocardial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G3...13,Read,IHD - Ischaemic heart disease,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G31y.00,Read,Other acute and subacute ischaemic heart disease,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G31y000,Read,Acute coronary insufficiency,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G31y100,Read,Microinfarction of heart,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G31y200,Read,Subendocardial ischaemia,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G31y300,Read,Transient myocardial ischaemia,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G31yz00,Read,Other acute and subacute ischaemic heart disease NOS,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G32..00,Read,Old myocardial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G32..11,Read,Healed myocardial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G32..12,Read,Personal history of myocardial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G33..00,Read,Angina pectoris,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G330.00,Read,Angina decubitus,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G330000,Read,Nocturnal angina,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G330z00,Read,Angina decubitus NOS,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G331.00,Read,Prinzmetal's angina,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G331.11,Read,Variant angina pectoris,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G332.00,Read,Coronary artery spasm,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G33z.00,Read,Angina pectoris NOS,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G33z000,Read,Status anginosus,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G33z100,Read,Stenocardia,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G33z200,Read,Syncope anginosa,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G33z300,Read,Angina on effort,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G33z400,Read,Ischaemic chest pain,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G33z500,Read,Post infarct angina,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G33z600,Read,New onset angina,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G33z700,Read,Stable angina,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G33zz00,Read,Angina pectoris NOS,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G34..00,Read,Other chronic ischaemic heart disease,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G340.00,Read,Coronary atherosclerosis,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G340000,Read,Single coronary vessel disease,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G340100,Read,Double coronary vessel disease,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G340.11,Read,Triple vessel disease of the heart,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G340.12,Read,Coronary artery disease,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G342.00,Read,Atherosclerotic cardiovascular disease,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G343.00,Read,Ischaemic cardiomyopathy,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G344.00,Read,Silent myocardial ischaemia,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G34y.00,Read,Other specified chronic ischaemic heart disease,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G34y000,Read,Chronic coronary insufficiency,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G34y100,Read,Chronic myocardial ischaemia,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G34yz00,Read,Other specified chronic ischaemic heart disease NOS,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G34z.00,Read,Other chronic ischaemic heart disease NOS,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G34z000,Read,Asymptomatic coronary heart disease,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G35..00,Read,Subsequent myocardial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G350.00,Read,Subsequent myocardial infarction of anterior wall,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G351.00,Read,Subsequent myocardial infarction of inferior wall,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G353.00,Read,Subsequent myocardial infarction of other sites,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G35X.00,Read,Subsequent myocardial infarction of unspecified site,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G36..00,Read,Certain current complication follow acute myocardial infarct,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G360.00,Read,Haemopericardium/current comp folow acut myocard infarct,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G361.00,Read,Atrial septal defect/curr comp folow acut myocardal infarct,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G362.00,Read,Ventric septal defect/curr comp fol acut myocardal infarctn,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G363.00,Read,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G364.00,Read,Ruptur chordae tendinae/curr comp fol acute myocard infarct,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G365.00,Read,Rupture papillary muscle/curr comp fol acute myocard infarct,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G366.00,Read,Thrombosis atrium;auric append&vent/curr comp foll acute MI,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G38..00,Read,Postoperative myocardial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G380.00,Read,Postoperative transmural myocardial infarction anterior wall,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G381.00,Read,Postoperative transmural myocardial infarction inferior wall,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G384.00,Read,Postoperative subendocardial myocardial infarction,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G38z.00,Read,Postoperative myocardial infarction; unspecified,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Myocardial infarction
+G3y..00,Read,Other specified ischaemic heart disease,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction
+G3z..00,Read,Ischaemic heart disease NOS,diagnostic,125 - Ischaemic Heart Disease,2014-02-14,Not myocardial infarction

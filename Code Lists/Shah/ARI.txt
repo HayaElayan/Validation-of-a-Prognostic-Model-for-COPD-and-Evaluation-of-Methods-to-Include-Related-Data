@@ -1,0 +1,9 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+6124	217334	800	0	0	H062.00	Acute lower respiratory tract infection	February 2009
+23640	1324	8	0	0	H0y..00	Other specified acute respiratory infections	February 2009
+26010	18169	11	0	0	H05..00	Other acute upper respiratory infections	February 2009
+6294	561515	568	0	0	H051.00	Acute upper respiratory tract infection	February 2009
+8025	347107	1043	6	0	H0...00	Acute respiratory infections	February 2009
+99762	16315	97	0	0	14B9.00	History of acute lower respiratory tract infection	June 2010
+21113	95820	30	2	0	H0z..00	Acute respiratory infection NOS	February 2009
+37447	7177	10	0	0	H06z112	Acute lower respiratory tract infection	February 2009

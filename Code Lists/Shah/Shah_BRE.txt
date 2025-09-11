@@ -1,0 +1,27 @@
+Medcode	Description
+735	[D]Breathlessness
+741	[D]Shortness of breath
+1429	Breathlessness
+2563	[D]Respiratory distress
+2575	Short of breath on exertion
+2737	Respiratory distress syndrome
+2931	Difficulty breathing
+3092	[D]Dyspnoea
+4822	Shortness of breath
+5175	Breathlessness symptom
+5349	Shortness of breath symptom
+5896	Dyspnoea - symptom
+6326	Breathless - moderate exertion
+6434	Paroxysmal nocturnal dyspnoea
+7000	O/E - dyspnoea
+7534	O/E - respiratory distress
+7683	Breathless - lying flat
+7932	Breathless - mild exertion
+9297	[D]Respiratory insufficiency
+18116	Nocturnal dyspnoea
+21801	Breathlessness NOS
+22094	Short of breath dressing/undressing
+24889	Breathless - strenuous exertion
+31143	Breathless - at rest
+40813	Unable to complete a sentence in one breath
+53771	Dyspnoea on exertion

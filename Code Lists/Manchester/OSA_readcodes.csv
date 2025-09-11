@@ -1,0 +1,129 @@
+code,coding_system,description,entity,list_name,upload_date
+N05..00,Read,Osteoarthritis and allied disorders,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N050.00,Read,Generalised osteoarthritis - OA,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N050000,Read,Generalised osteoarthritis of unspecified site,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N050100,Read,Generalised osteoarthritis of the hand,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N050200,Read,Generalised osteoarthritis of multiple sites,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N050400,Read,Primary generalized osteoarthrosis,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N050600,Read,Erosive osteoarthrosis,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N050z00,Read,Generalised osteoarthritis NOS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N051.00,Read,Localised; primary osteoarthritis,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N051000,Read,Localised; primary osteoarthritis of unspecified site,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05..11,Read,Osteoarthritis,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N051100,Read,Localised; primary osteoarthritis of the shoulder region,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N051200,Read,Localised; primary osteoarthritis of the upper arm,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N051300,Read,Localised; primary osteoarthritis of the forearm,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N051400,Read,Localised; primary osteoarthritis of the hand,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N051500,Read,Localised; primary osteoarthritis of the pelvic region/thigh,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N051600,Read,Localised; primary osteoarthritis of the lower leg,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N051700,Read,Localised; primary osteoarthritis of the ankle and foot,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N051800,Read,Localised; primary osteoarthritis of other specified site,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N051D00,Read,Localised; primary osteoarthritis of the wrist,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N051E00,Read,Localised; primary osteoarthritis of toe,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N051F00,Read,Localised; primary osteoarthritis of elbow,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N051z00,Read,Localised; primary osteoarthritis NOS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N052.00,Read,Localised; secondary osteoarthritis,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N052000,Read,Localised; secondary osteoarthritis of unspecified site,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N052100,Read,Localised; secondary osteoarthritis of the shoulder region,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N052200,Read,Localised; secondary osteoarthritis of the upper arm,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N052300,Read,Localised; secondary osteoarthritis of the forearm,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N052400,Read,Localised; secondary osteoarthritis of the hand,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N052500,Read,Localised; secondary osteoarthritis of pelvic region/thigh,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N052600,Read,Localised; secondary osteoarthritis of the lower leg,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N052700,Read,Localised; secondary osteoarthritis of the ankle and foot,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N052800,Read,Localised; secondary osteoarthritis of other specified site,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N052z00,Read,Localised; secondary osteoarthritis NOS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N053.00,Read,Localised osteoarthritis; unspecified,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N053000,Read,Localised osteoarthritis; unspecified; of unspecified site,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N053100,Read,Localised osteoarthritis; unspecified; of shoulder region,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N053200,Read,Localised osteoarthritis; unspecified; of the upper arm,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N053300,Read,Localised osteoarthritis; unspecified; of the forearm,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N053400,Read,Localised osteoarthritis; unspecified; of the hand,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N053500,Read,Localised osteoarthritis; unspecified; pelvic region/thigh,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N053600,Read,Localised osteoarthritis; unspecified; of the lower leg,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N053611,Read,Patellofemoral osteoarthritis,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N053700,Read,Localised osteoarthritis; unspecified; of the ankle and foot,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N053800,Read,Localised osteoarthritis; unspecified; of other spec site,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N053z00,Read,Localised osteoarthritis; unspecified; NOS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N054.00,Read,Oligoarticular osteoarthritis; unspecified,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N054000,Read,Oligoarticular osteoarthritis; unspec; of unspecified sites,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N054100,Read,Oligoarticular osteoarthritis; unspecified; of shoulder,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N054200,Read,Oligoarticular osteoarthritis; unspecified; of upper arm,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N054400,Read,Oligoarticular osteoarthritis; unspecified; of hand,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N054500,Read,Oligoarticular osteoarthritis; unspecified; of pelvis/thigh,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N054600,Read,Oligoarticular osteoarthritis; unspecified; of lower leg,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N054700,Read,Oligoarticular osteoarthritis; unspecified; of ankle/foot,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N054800,Read,Oligoarticular osteoarthritis; unspecified; other spec sites,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N054900,Read,Oligoarticular osteoarthritis; unspecified; multiple sites,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N054z00,Read,Osteoarthritis of more than one site; unspecified; NOS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z.00,Read,Osteoarthritis NOS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z000,Read,Osteoarthritis NOS; of unspecified site,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z100,Read,Osteoarthritis NOS; of shoulder region,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z200,Read,Osteoarthritis NOS; of the upper arm,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z211,Read,Elbow osteoarthritis NOS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z300,Read,Osteoarthritis NOS; of the forearm,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z311,Read,Wrist osteoarthritis NOS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z400,Read,Osteoarthritis NOS; of the hand,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z411,Read,Finger osteoarthritis NOS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z412,Read,Thumb osteoarthritis NOS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z500,Read,Osteoarthritis NOS; pelvic region/thigh,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z511,Read,Hip osteoarthritis NOS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z600,Read,Osteoarthritis NOS; of the lower leg,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z611,Read,Knee osteoarthritis NOS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z700,Read,Osteoarthritis NOS; of ankle and foot,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z711,Read,Ankle osteoarthritis NOS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z712,Read,Foot osteoarthritis NOS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z713,Read,Toe osteoarthritis NOS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z800,Read,Osteoarthritis NOS; other specified site,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05z900,Read,Osteoarthritis NOS; of shoulder,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zA00,Read,Osteoarthritis NOS; of sternoclavicular joint,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zB00,Read,Osteoarthritis NOS; of acromioclavicular joint,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zC00,Read,Osteoarthritis NOS; of elbow,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zD00,Read,Osteoarthritis NOS; of distal radio-ulnar joint,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zE00,Read,Osteoarthritis NOS; of wrist,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zF00,Read,Osteoarthritis NOS; of MCP joint,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zG00,Read,Osteoarthritis NOS; of PIP joint of finger,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zH00,Read,Osteoarthritis NOS; of DIP joint of finger,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zJ00,Read,Osteoarthritis NOS; of hip,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zK00,Read,Osteoarthritis NOS; of sacro-iliac joint,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zL00,Read,Osteoarthritis NOS; of knee,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zM00,Read,Osteoarthritis NOS; of tibio-fibular joint,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zN00,Read,Osteoarthritis NOS; of ankle,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zP00,Read,Osteoarthritis NOS; of subtalar joint,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zQ00,Read,Osteoarthritis NOS; of talonavicular joint,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zR00,Read,Osteoarthritis NOS; of other tarsal joint,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zS00,Read,Osteoarthritis NOS; of 1st MTP joint,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zT00,Read,Osteoarthritis NOS; of lesser MTP joint,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zU00,Read,Osteoarthritis NOS; of IP joint of toe,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N05zz00,Read,Osteoarthritis NOS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N110.12,Read,Osteoarthritis cervical spine,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N11..12,Read,Osteoarthritis of spine,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N11D.00,Read,Osteoarthritis of spine,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N11D000,Read,Osteoarthritis of cervical spine,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N11D100,Read,Osteoarthritis of thoracic spine,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N11D200,Read,Osteoarthritis of lumbar spine,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N11D300,Read,Osteoarthritis of spine NOS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+N11z.11,Read,Osteoarthritis spine,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130A,OXMIS,OSTEOARTHRITIS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130AA,OXMIS,OSTEOARTHROSIS ANKLE,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130AB,OXMIS,OSTEOARTHROSIS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130AC,OXMIS,OSTEOARTHROSIS ACROMIO CLAVICULAR JOINT,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130AG,OXMIS,OSTEOARTHROSIS GENERAL,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130AW,OXMIS,OSTEOARTHROSIS WRIST,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130B,OXMIS,OSTEOARTHROSIS KNEE(S),diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130C,OXMIS,OSTEOARTHROSIS FINGERS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130CT,OXMIS,THUMB OSTEOARTHROSIS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130D,OXMIS,OSTEOARTHROSIS HIP,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130DA,OXMIS,OSTEOARTHRITIS HIP,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130E,OXMIS,OSTEOARTHROSIS SHOULDER,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130EA,OXMIS,STERNOCLAVICULAR JOINT OSTEOARTHROSIS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130EL,OXMIS,OSTEOARTHROSIS ELBOW,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130FT,OXMIS,OSTEOARTHROSIS FOOT,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130H,OXMIS,OSTEOARTHROSIS TOE,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130MD,OXMIS,TEMPOROMANDIBULAR OSTEOARTHROSIS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130N,OXMIS,OSTEOARTHROSIS HANDS,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7130PA,OXMIS,OSTEOARTHRITIC PROTRUSION ACETABULUM,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7131A,OXMIS,OSTEOARTHROSIS NECK,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7131BR,OXMIS,SPONDYLITIS OSTEOARTHRITIC,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7131C,OXMIS,OSTEOARTHROSIS SPINE,diagnostic,267 - res26: Osteoarthritis,2015-04-20
+7131DL,OXMIS,LUMBAR OSTEOARTHRITIS,diagnostic,267 - res26: Osteoarthritis,2015-04-20

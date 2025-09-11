@@ -1,0 +1,32 @@
+medcode,readcode,readterm,aplastic
+72252,D200300,constitutional red cell aplasia and hypoplasia,1
+65351,D201211,hypoplastic anaemia due to infection,1
+111962,Dyu2.00,[x]aplastic and other anaemias,1
+15422,D20..00,Aplastic anaemia,1
+15658,D201.00,Acquired aplastic anaemia,1
+16108,D201000,Aplastic anaemia due to chronic disease,1
+21723,D201z00,Acquired aplastic anaemia NOS,1
+31275,D201611,Pancytopenia with malformation,1
+31491,D200211,Pancytopenia-dysmelia,1
+32715,D201111,Hypoplastic anaemia due to drug or chemical substance,1
+34754,D200100,Fanconi's familial refractory anaemia,1
+37320,D200000,Congenital hypoplastic anaemia,1
+37539,D2...00,Aplastic and other anaemias,1
+41142,D204.00,Idiopathic aplastic anaemia,1
+43166,D201100,Aplastic anaemia due to drugs,1
+44913,D200.15,Hypoplastic anaemia - familial,1
+57114,D201412,Hypoplastic anaemia due to toxic cause,1
+57859,D201200,Aplastic anaemia due to infection,1
+64625,D200111,Fanconi's hypoplastic anaemia,1
+66239,D201400,Aplastic anaemia due to toxic cause,1
+68087,D20z.00,Aplastic anaemia NOS,1
+69027,D200.00,Constitutional aplastic anaemia,1
+69061,D200011,Constitutional aplastic anaemia without malformation,1
+69379,D200y00,Other specified constitutional aplastic anaemia,1
+70128,D201311,Radiation aplastic anaemia,1
+83476,7Q09000,Hypoplastic haemolytic and renal anaemia drugs Band 1,1
+92968,7Q09100,Hypoplastic haemolytic and renal anaemia drugs Band 2,1
+102848,D200200,Constitutional aplastic anaemia with malformation,1
+112600,D201300,Aplastic anaemia due to radiation,1
+112825,D200.12,pancytopenia with malformations,1
+113817,D200z00,constitutional aplastic anaemia nos,1

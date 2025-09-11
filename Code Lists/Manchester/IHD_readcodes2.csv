@@ -1,0 +1,365 @@
+code,coding_system,description,entity,list_name,upload_date
+14A3.00,Read,h/o: myocardial infarct <60,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+14A4.00,Read,h/o: myocardial infarct >60,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+14A5.00,Read,h/o: angina pectoris,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+14AA.00,Read,h/o: heart disease nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+14AH.00,Read,h/o: myocardial infarction in last year,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+14AJ.00,Read,h/o: angina in last year,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+14AL.00,Read,h/o: treatment for ischaemic heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+14AT.00,Read,history of myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+14AW.00,Read,h/o acute coronary syndrome,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+182A.00,Read,Chest pain on exertion,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+187..00,Read,frequency of angina,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+1J61.00,Read,suspected ischaemic heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+3213111,Read,Positive exercise ECG test,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+322..00,Read,ecg: myocardial ischaemia,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+3222,Read,ecg:shows myocardial ischaemia,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+322Z.00,Read,ecg: myocardial ischaemia nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+323..00,Read,ecg: myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+3232,Read,ecg: old myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+3233,Read,ecg: antero-septal infarct.,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+3234,Read,ecg:posterior/inferior infarct,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+3235,Read,ecg: subendocardial infarct,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+3236,Read,ecg: lateral infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+323Z.00,Read,ecg: myocardial infarct nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+32B..00,Read,ecg: q wave,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+32B2.00,Read,ecg: q wave abnormal,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+32B3.00,Read,ecg: q wave pathological,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+32BZ.00,Read,ecg: q wave nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+32E4.00,Read,ecg: s-t depression,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+44H3.00,Read,cardiac enzymes abnormal,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+44H3000,Read,cardiac enzymes abnormal - first set,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+44HJ.00,Read,Plasma creatinine phosphokinase MB isoenzyme level,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+44MH.00,Read,Plasma troponin T level,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+44p2.00,Read,cardiac troponin positive,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+5533,Read,angiocardiography abnormal,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+5543,Read,coronary arteriograph.abnormal,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+5C11.00,Read,radionuclide heart study abnormal,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+661M000,Read,angina self-management plan agreed,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+662..00,Read,Cardiac disease monitoring,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+662..11,Read,Heart disease monitoring,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+662K.00,Read,angina control,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+662K000,Read,angina control - good,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+662K100,Read,angina control - poor,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+662K200,Read,angina control - improving,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+662K300,Read,angina control - worsening,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+662Kz00,Read,angina control nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+662N.00,Read,CHD monitoring,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+662Z.00,Read,Cardiac disease monitoring NOS,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+66f..00,Read,Cardiovascular disease monitoring,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+66f1.00,Read,Cardiovascular disease interim monitoring,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+6A2..00,Read,coronary heart disease annual review,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+6A4..00,Read,coronary heart disease review,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7920,Read,saphenous vein graft replacement of coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7920000,Read,saphenous vein graft replacement of one coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7920100,Read,saphenous vein graft replacement of two coronary arteries,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7920.11,Read,saphenous vein graft bypass of coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7920200,Read,saphenous vein graft replacement of three coronary arteries,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7920300,Read,saphenous vein graft replacement of four+ coronary arteries,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7920y00,Read,saphenous vein graft replacement of coronary artery os,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7920z00,Read,saphenous vein graft replacement coronary artery nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7921,Read,other autograft replacement of coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7921000,Read,autograft replacement of one coronary artery nec,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+792..11,Read,coronary artery bypass graft operations,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7921100,Read,autograft replacement of two coronary arteries nec,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7921.11,Read,other autograft bypass of coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7921200,Read,autograft replacement of three coronary arteries nec,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7921300,Read,autograft replacement of four of more coronary arteries nec,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7921y00,Read,other autograft replacement of coronary artery os,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7921z00,Read,other autograft replacement of coronary artery nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7922,Read,allograft replacement of coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7922000,Read,allograft replacement of one coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7922100,Read,allograft replacement of two coronary arteries,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7922.11,Read,allograft bypass of coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7922200,Read,allograft replacement of three coronary arteries,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7922300,Read,allograft replacement of four or more coronary arteries,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7922y00,Read,other specified allograft replacement of coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7922z00,Read,allograft replacement of coronary artery nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7923,Read,prosthetic replacement of coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7923000,Read,prosthetic replacement of one coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7923100,Read,prosthetic replacement of two coronary arteries,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7923.11,Read,prosthetic bypass of coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7923200,Read,prosthetic replacement of three coronary arteries,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7923300,Read,prosthetic replacement of four or more coronary arteries,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7923z00,Read,prosthetic replacement of coronary artery nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7924,Read,revision of bypass for coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7924000,Read,revision of bypass for one coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7924100,Read,revision of bypass for two coronary arteries,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7924200,Read,revision of bypass for three coronary arteries,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7924y00,Read,other specified revision of bypass for coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7924z00,Read,revision of bypass for coronary artery nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7925,Read,connection of mammary artery to coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7925000,Read,double anastomosis of mammary arteries to coronary arteries,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7925100,Read,double implant of mammary arteries into coronary arteries,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7925.11,Read,creation of bypass from mammary artery to coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7925300,Read,single anastomosis of mammary artery to coronary artery nec,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7925311,Read,lima single anastomosis,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7925312,Read,rima single anastomosis,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7925400,Read,single implantation of mammary artery into coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7925y00,Read,connection of mammary artery to coronary artery os,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7925z00,Read,connection of mammary artery to coronary artery nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7926,Read,connection of other thoracic artery to coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7926000,Read,double anastom thoracic arteries to coronary arteries nec,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7926200,Read,single anastomosis of thoracic artery to coronary artery nec,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7926300,Read,single implantation thoracic artery into coronary artery nec,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7926z00,Read,connection of other thoracic artery to coronary artery nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7927500,Read,open angioplasty of coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7928,Read,transluminal balloon angioplasty of coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7928000,Read,percut transluminal balloon angioplasty one coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7928100,Read,percut translum balloon angioplasty mult coronary arteries,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7928.11,Read,percutaneous balloon coronary angioplasty,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7928200,Read,percut translum balloon angioplasty bypass graft coronary a,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7928300,Read,percut translum cutting balloon angioplasty coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7928y00,Read,transluminal balloon angioplasty of coronary artery os,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7928z00,Read,transluminal balloon angioplasty of coronary artery nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7929000,Read,percutaneous transluminal laser coronary angioplasty,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7929100,Read,percut transluminal coronary thrombolysis with streptokinase,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7929111,Read,percut translum coronary thrombolytic therapy- streptokinase,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7929300,Read,rotary blade coronary angioplasty,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7929400,Read,insertion of coronary artery stent,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7929500,Read,insertion of drug-eluting coronary artery stent,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7929600,Read,percutaneous transluminal atherectomy of coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+792B000,Read,endarterectomy of coronary artery nec,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+792C.00,Read,other replacement of coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+792C000,Read,replacement of coronary arteries using multiple methods,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+792Cy00,Read,other specified replacement of coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+792Cz00,Read,replacement of coronary artery nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+792D.00,Read,other bypass of coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+792Dy00,Read,other specified other bypass of coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+792Dz00,Read,other bypass of coronary artery nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+793G.00,Read,perc translumin balloon angioplasty stenting coronary artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+793G000,Read,perc translum ball angio insert 1-2 drug elut stents cor art,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+793G100,Read,perc tran ball angio ins 3 or more drug elut stents cor art,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+793G200,Read,perc translum balloon angioplasty insert 1-2 stents cor art,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+793G300,Read,percutaneous cor balloon angiop 3 more stents cor art nec,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+793Gy00,Read,os perc translumina balloon angioplast stenting coronary art,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+793Gz00,Read,perc translum balloon angioplasty stenting coronary art nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7A4B800,Read,percut translum thrombolysis femoral graft streptokinase,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7A54000,Read,percutaneous transluminal angioplasty of artery nec,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7A54500,Read,rotary blade angioplasty,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7A54700,Read,percutaneous transluminal thrombolysis of artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7A54800,Read,percutaneous transluminal atherectomy,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7A56000,Read,percutaneous transluminal arterial thrombolysis reconstruct,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7A56400,Read,percutaneous transluminal balloon angioplasty of artery,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7A6G100,Read,peroperative angioplasty,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7A6H300,Read,prosthetic graft patch angioplasty,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7A6H400,Read,percutaneous transluminal angioplasty of vascular graft,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+7A6S300,Read,percutaneous transluminal venous thrombolysis nec,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+889A.00,Read,diab mellit insulin-glucose infus acute myocardial infarct,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8B27.00,Read,antianginal therapy,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8B3k.00,Read,coronary heart disease medication review,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8BGC.00,Read,long term dual antiplatelet drug therapy indicated,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8CMP.00,Read,coronary heart disease care plan,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8F9..00,Read,Cardiac rehabilitation,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8F90.00,Read,Cardiac rehabilitation - phase 1,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8F91.00,Read,Cardiac rehabilitation - phase 2,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8F92.00,Read,Cardiac rehabilitation - phase 3,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8F93.00,Read,Cardiac rehabilitation - phase 4,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8H2V.00,Read,admit ischaemic heart disease emergency,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8H7v.00,Read,Referral to cardiac rehabilitation nurse,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8I37.00,Read,Coronary heart disease monitoring refused,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8I3a.00,Read,Cardiac rehabilitation declined,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8IEY.00,Read,referral to angina plan self-management programme declined,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8L40.00,Read,coronary artery bypass graft operation planned,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8L41.00,Read,coronary angioplasty planned,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8LF..00,Read,coronary angiography planned,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+8T04.00,Read,referral to angina plan self-management programme,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+9Ob..00,Read,Coronary heart disease monitoring administration,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+9Ob0.00,Read,Attends coronary heart disease monitoring,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+9Ob1.00,Read,Refuses coronary heart disease monitoring,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+9Ob2.00,Read,Coronary heart disease monitoring default,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+9Ob3.00,Read,Coronary heart disease monitoring 1st letter,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+9Ob4.00,Read,Coronary heart disease monitoring 2nd letter,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+9Ob5.00,Read,Coronary heart disease monitoring 3rd letter,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+9Ob6.00,Read,Coronary heart disease monitoring verbal invitation,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+9Ob8.00,Read,Coronary heart disease monitoring check done,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+9Ob9.00,Read,Coronary heart disease monitoring telephone invite,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G....12,Read,Cardiac diseases,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G....13,Read,Heart diseases,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G3...00,Read,ischaemic heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30..00,Read,acute myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G300.00,Read,acute anterolateral infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G301.00,Read,other specified anterior myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G301000,Read,acute anteroapical infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30..11,Read,attack - heart,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G301100,Read,acute anteroseptal infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30..12,Read,coronary thrombosis,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30..13,Read,cardiac rupture following myocardial infarction (mi),diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30..14,Read,heart attack,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30..15,Read,mi - acute myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30..16,Read,thrombosis - coronary,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30..17,Read,silent myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G301z00,Read,anterior myocardial infarction nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G302.00,Read,acute inferolateral infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G303.00,Read,acute inferoposterior infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G304.00,Read,posterior myocardial infarction nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G305.00,Read,lateral myocardial infarction nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G306.00,Read,true posterior myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G307.00,Read,acute subendocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G307000,Read,acute non-q wave infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G307100,Read,acute non-st segment elevation myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G308.00,Read,inferior myocardial infarction nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G309.00,Read,acute q-wave infarct,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30A.00,Read,mural thrombosis,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30B.00,Read,acute posterolateral myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30X.00,Read,acute transmural myocardial infarction of unspecif site,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30X000,Read,acute st segment elevation myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30y.00,Read,other acute myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30y000,Read,acute atrial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30y100,Read,acute papillary muscle infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30y200,Read,acute septal infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30yz00,Read,other acute myocardial infarction nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G30z.00,Read,acute myocardial infarction nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G31..00,Read,other acute and subacute ischaemic heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G310.00,Read,postmyocardial infarction syndrome,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G310.11,Read,dressler's syndrome,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G3...11,Read,arteriosclerotic heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G311.00,Read,preinfarction syndrome,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G311000,Read,myocardial infarction aborted,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G311011,Read,mi - myocardial infarction aborted,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G311100,Read,unstable angina,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G311.11,Read,crescendo angina,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G311.12,Read,impending infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G311.13,Read,unstable angina,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G311.14,Read,angina at rest,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G311200,Read,angina at rest,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G311300,Read,refractory angina,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G311400,Read,worsening angina,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G311500,Read,acute coronary syndrome,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G311z00,Read,preinfarction syndrome nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G3...12,Read,atherosclerotic heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G312.00,Read,coronary thrombosis not resulting in myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G3...13,Read,ihd - ischaemic heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G31y.00,Read,other acute and subacute ischaemic heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G31y000,Read,acute coronary insufficiency,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G31y100,Read,microinfarction of heart,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G31y200,Read,subendocardial ischaemia,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G31y300,Read,transient myocardial ischaemia,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G31yz00,Read,other acute and subacute ischaemic heart disease nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G32..00,Read,old myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G32..11,Read,healed myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G32..12,Read,personal history of myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G33..00,Read,angina pectoris,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G330.00,Read,angina decubitus,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G330000,Read,nocturnal angina,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G330z00,Read,angina decubitus nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G331.11,Read,variant angina pectoris,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G332.00,Read,coronary artery spasm,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G33z.00,Read,angina pectoris nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G33z000,Read,status anginosus,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G33z100,Read,stenocardia,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G33z200,Read,syncope anginosa,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G33z300,Read,angina on effort,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G33z400,Read,ischaemic chest pain,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G33z500,Read,post infarct angina,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G33z600,Read,new onset angina,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G33z700,Read,stable angina,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G33zz00,Read,angina pectoris nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G34..00,Read,other chronic ischaemic heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G340.00,Read,coronary atherosclerosis,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G340000,Read,single coronary vessel disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G340100,Read,double coronary vessel disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G340.11,Read,triple vessel disease of the heart,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G340.12,Read,coronary artery disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G341.00,Read,Aneurysm of heart,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G341000,Read,Ventricular cardiac aneurysm,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G341100,Read,Other cardiac wall aneurysm,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G341.11,Read,Cardiac aneurysm,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G341z00,Read,Aneurysm of heart NOS,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G342.00,Read,atherosclerotic cardiovascular disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G343.00,Read,Ischaemic cardiomyopathy,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G344.00,Read,silent myocardial ischaemia,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G34y.00,Read,other specified chronic ischaemic heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G34y000,Read,chronic coronary insufficiency,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G34y100,Read,chronic myocardial ischaemia,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G34yz00,Read,other specified chronic ischaemic heart disease nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G34z.00,Read,other chronic ischaemic heart disease nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G34z000,Read,asymptomatic coronary heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G35..00,Read,subsequent myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G350.00,Read,subsequent myocardial infarction of anterior wall,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G351.00,Read,subsequent myocardial infarction of inferior wall,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G353.00,Read,subsequent myocardial infarction of other sites,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G35X.00,Read,subsequent myocardial infarction of unspecified site,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G36..00,Read,certain current complication follow acute myocardial infarct,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G360.00,Read,haemopericardium/current comp folow acut myocard infarct,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G361.00,Read,atrial septal defect/curr comp folow acut myocardal infarct,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G362.00,Read,ventric septal defect/curr comp fol acut myocardal infarctn,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G363.00,Read,ruptur cardiac wall w'out haemopericard/cur comp fol ac mi,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G364.00,Read,ruptur chordae tendinae/curr comp fol acute myocard infarct,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G365.00,Read,rupture papillary muscle/curr comp fol acute myocard infarct,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G366.00,Read,thrombosis atrium;auric append&vent/curr comp foll acute mi,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G38..00,Read,postoperative myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G380.00,Read,postoperative transmural myocardial infarction anterior wall,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G381.00,Read,postoperative transmural myocardial infarction inferior wall,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G383.00,Read,postoperative transmural myocardial infarction unspec site,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G384.00,Read,postoperative subendocardial myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G38z.00,Read,postoperative myocardial infarction; unspecified,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G39..00,Read,coronary microvascular disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G3y..00,Read,other specified ischaemic heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G3z..00,Read,ischaemic heart disease nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G5...00,Read,other forms of heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G501.00,Read,post infarction pericarditis,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G574000,Read,Ventricular fibrillation,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G5y..00,Read,other specified heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G5yyz00,Read,Other ill-defined heart disease NOS,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G5yz.00,Read,other heart disease nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+G5z..00,Read,heart disease nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+Gyu3.00,Read,[x]ischaemic heart diseases,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+Gyu3000,Read,[x]other forms of angina pectoris,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+Gyu3200,Read,[x]other forms of acute ischaemic heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+Gyu3300,Read,[x]other forms of chronic ischaemic heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+Gyu3400,Read,[x]acute transmural myocardial infarction of unspecif site,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+Gyu3600,Read,[x]subsequent myocardial infarction of unspecified site,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+Gyu5.00,Read,[x]other forms of heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+Gyu7000,Read,[x]atherosclerosis of other arteries,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+SP00300,Read,mechanical complication of coronary bypass,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+SP07600,Read,coronary artery bypass graft occlusion,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+Z677.00,Read,Cardiac rehabilitation class,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+ZL22200,Read,Under care of cardiac rehabilitation nurse,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+ZV45700,Read,[v]presence of aortocoronary bypass graft,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+ZV45800,Read,[v]presence of coronary angioplasty implant and graft,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+ZV45K00,Read,[v]presence of coronary artery bypass graft,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+ZV45K11,Read,[v]presence of coronary artery bypass graft - cabg,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+ZV45L00,Read,[v]status following coronary angioplasty nos,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+ZV57900,Read,[V]Cardiac rehabilitation,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I20,ICD-10,angina pectoris,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I20.0,ICD-10,unstable angina,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I20.1,ICD-10,angina pectoris with documented spasm,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I20.8,ICD-10,other forms of angina pectoris,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I20.9,ICD-10,angina pectoris; unspecified,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I21,ICD-10,acute myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I21.0,ICD-10,acute transmural myocardial infarction of anterior wall,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I21.1,ICD-10,acute transmural myocardial infarction of inferior wall,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I21.2,ICD-10,acute transmural myocardial infarction of other sites,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I21.3,ICD-10,acute transmural myocardial infarction of unspecified site,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I21.4,ICD-10,acute subendocardial myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I21.9,ICD-10,acute myocardial infarction; unspecified,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I22,ICD-10,subsequent myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I22.0,ICD-10,subsequent myocardial infarction of anterior wall,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I22.1,ICD-10,subsequent myocardial infarction of inferior wall,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I22.8,ICD-10,subsequent myocardial infarction of other sites,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I22.9,ICD-10,subsequent myocardial infarction of unspecified site,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I23,ICD-10,certain current complications following acute myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I23.0,ICD-10,haemopericardium as current complication following acute myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I23.1,ICD-10,atrial septal defect as current complication following acute myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I23.2,ICD-10,ventricular septal defect as current complication following acute myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I23.3,ICD-10,rupture of cardiac wall without haemopericardium as current complication following acute myocardial ,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I23.4,ICD-10,rupture of chordae tendineae as current complication following acute myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I23.5,ICD-10,rupture of papillary muscle as current complication following acute myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I23.6,ICD-10,thrombosis of atrium; auricular appendage; and ventricle as current complications following acute my,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I23.8,ICD-10,other current complications following acute myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I24,ICD-10,other acute ischaemic heart diseases,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I24.0,ICD-10,coronary thrombosis not resulting in myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I24.1,ICD-10,dressler's syndrome,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I24.8,ICD-10,other forms of acute ischaemic heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I24.9,ICD-10,acute ischaemic heart disease; unspecified,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I25,ICD-10,chronic ischaemic heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I25.0,ICD-10,atherosclerotic cardiovascular disease; so described,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I25.1,ICD-10,atherosclerotic heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I25.2,ICD-10,old myocardial infarction,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I25.5,ICD-10,ischaemic cardiomyopathy,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I25.6,ICD-10,silent myocardial ischaemia,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I25.8,ICD-10,other forms of chronic ischaemic heart disease,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+I25.9,ICD-10,chronic ischaemic heart disease; unspecified,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+T82.2,ICD-10,mechanical complication of coronary artery bypass and valve grafts,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22
+Z95.5,ICD-10,presence of coronary angioplasty implant and graft,diagnostic,329 - res30: Ischaemic heart disease,2015-10-22

@@ -1,0 +1,18 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+1676	101958	313	1	0	G3z..00	Ischaemic heart disease NOS	February 2009
+27951	319	5	0	0	G31..00	Other acute and subacute ischaemic heart disease	February 2009
+45476	143	1	0	0	14AL.00	H/O: Treatment for ischaemic heart disease	February 2009
+11799	2103918	1313	11	0	1226.00	No FH: Ischaemic heart disease	February 2009
+95550	50	7	0	0	8H2V.00	Admit ischaemic heart disease emergency	February 2009
+35713	72	3	0	0	G34yz00	Other specified chronic ischaemic heart disease NOS	February 2009
+1792	184710	3291	10	0	G3...13	IHD - Ischaemic heart disease	February 2009
+27977	105	1	0	0	G31yz00	Other acute and subacute ischaemic heart disease NOS	February 2009
+240	750072	11636	1653	0	G3...00	Ischaemic heart disease	February 2009
+34633	88	3	0	0	G34y.00	Other specified chronic ischaemic heart disease	February 2009
+68401	16	0	0	0	Gyu3200	[X]Other forms of acute ischaemic heart disease	February 2009
+22383	1119	1	0	0	G3y..00	Other specified ischaemic heart disease	February 2009
+9413	137	4	0	0	G31y.00	Other acute and subacute ischaemic heart disease	February 2009
+47637	17	0	0	0	Gyu3300	[X]Other forms of chronic ischaemic heart disease	February 2009
+28138	957	4	0	0	G34..00	Other chronic ischaemic heart disease	February 2009
+52517	2872	14	0	0	Gyu3.00	[X]Ischaemic heart diseases	February 2009
+15754	445	13	0	0	G34z.00	Other chronic ischaemic heart disease NOS	February 2009

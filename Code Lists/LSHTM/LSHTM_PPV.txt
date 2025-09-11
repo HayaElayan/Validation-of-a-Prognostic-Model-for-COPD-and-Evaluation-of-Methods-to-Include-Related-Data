@@ -1,0 +1,10 @@
+medcode,readcode,readterm,PPV
+5764,7L19700,Subcutaneous injection of Pneumovax II,1
+36826,6572000,Pneumococcal vaccination given,1
+47743,14LR.00,H/O: pneumococcal vaccine allergy,1
+53198,657K.00,Booster pneumococcal vaccination,1
+58907,U60J811,[X]Adverse reaction to pneumococcal vaccine,1
+61507,U60J800,[X]Pneumococcal vacc causing adverse effects therapeutic use,1
+69953,ZV14G00,[V]Personal history of pneumococcal vaccine allergy,1
+97759,657P.00,Pneumococcal vaccination given by other healthcare provider,1
+100228,14b4.00,History of pneumococcal vaccination,1

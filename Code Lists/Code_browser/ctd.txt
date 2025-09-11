@@ -1,0 +1,29 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+4909	2463	127	0	0	N....11	Connective tissue diseases	February 2009
+43192	7	0	0	0	N374D00	Scoliosis in connective tissue anomalies	February 2009
+93184	2	0	0	0	Myu7F00	[X]Localized connective tissue disorder, unspecified	February 2009
+31438	490	26	0	0	N00..00	Diffuse diseases of connective tissue	February 2009
+19252	233	30	0	0	M2V..00	Localized connective tissue disorder, unspecified	February 2009
+10885	46659	3072	0	0	N....00	Musculoskeletal and connective tissue diseases	February 2009
+100145	334	36	0	0	14GC.00	History of connective tissue disease	July 2010
+59437	13	1	0	0	N3y0400	Connective tissue stenosis of neural canal	February 2009
+104915	40	1	0	0	H58y700	Interstitial lung disease due to connective tissue disease	September 2012
+10383	519	47	0	0	7N8A300	[SO]Connective tissue	February 2009
+28247	58	2	0	0	PGz4.00	Unspecified anomaly of connective tissue	February 2009
+86996	3	0	0	0	B501000	Malignant neoplasm of connective tissue of orbit	February 2009
+52860	20	1	0	0	Nyu4.00	[X]Systemic connective tissue disorders	February 2009
+25642	11	0	0	0	NyuE.00	[X]Other disord musculoskeletal system and connective tissue	February 2009
+44505	28	0	0	0	SC0z.00	Late effect of musculoskeletal/connective tissue injury NOS	February 2009
+92421	1	0	0	0	Nyu4C00	[X]Systemic disorders/connective tissue in other diseases CE	February 2009
+2175	58191	4389	27	0	Nz...00	Musculoskeletal and connective tissue diseases NOS	February 2009
+67158	2553	0	0	0	Z6G7300	Connective tissue massage	February 2009
+18608	1646	45	0	0	B3...00	Malig neop of bone, connective tissue, skin and breast	February 2009
+54703	45	3	0	0	SC0..00	Late effect of musculoskeletal/connective tissue injuries	February 2009
+103657	4	0	0	0	Myu7900	[X]Other specified localized connective tissue disorders	January 2012
+16640	408	32	13	0	Ny...00	Musculoskeletal or connective tissue diseases OS	February 2009
+9902	1335	49	0	0	B3...11	Carcinoma of bone, connective tissue, skin and breast	February 2009
+12539	1076	61	0	0	B3...12	Sarcoma of bone and connective tissue	February 2009
+41011	62	0	0	0	B3z..00	Malig neop of bone, connective tissue, skin and breast NOS	February 2009
+68965	11	0	0	0	Nyu4700	[X]Other systemic diseases of connective tissue	February 2009
+83529	549	30	0	0	Nyu4F00	[X]Mixed connective tissue disease	February 2009
+19389	65	1	0	0	B3y..00	Malig neop of bone, connective tissue, skin and breast OS	February 2009

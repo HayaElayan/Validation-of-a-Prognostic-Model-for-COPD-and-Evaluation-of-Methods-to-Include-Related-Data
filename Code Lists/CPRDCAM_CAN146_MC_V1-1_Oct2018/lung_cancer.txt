@@ -1,0 +1,26 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+13243	10888	341	1	0	B22..00	Malignant neoplasm of trachea, bronchus and lung	February 2009
+15221	191	8	0	0	B220.00	Malignant neoplasm of trachea	February 2009
+103946	2	0	0	0	B220100	Malignant neoplasm of mucosa of trachea	April 2012
+37810	21	0	0	0	B220z00	Malignant neoplasm of trachea NOS	February 2009
+12870	2883	47	0	0	B221.00	Malignant neoplasm of main bronchus	February 2009
+17391	152	4	0	0	B221000	Malignant neoplasm of carina of bronchus	February 2009
+33444	368	4	0	0	B221100	Malignant neoplasm of hilus of lung	February 2009
+21698	693	6	0	0	B221z00	Malignant neoplasm of main bronchus NOS	February 2009
+10358	2045	16	0	0	B222.00	Malignant neoplasm of upper lobe, bronchus or lung	February 2009
+31700	508	3	0	0	B222000	Malignant neoplasm of upper lobe bronchus	February 2009
+25886	2920	14	0	0	B222100	Malignant neoplasm of upper lobe of lung	February 2009
+44169	247	4	0	0	B222z00	Malignant neoplasm of upper lobe, bronchus or lung NOS	February 2009
+31268	305	4	0	0	B223.00	Malignant neoplasm of middle lobe, bronchus or lung	February 2009
+41523	70	0	0	0	B223000	Malignant neoplasm of middle lobe bronchus	February 2009
+39923	329	1	0	0	B223100	Malignant neoplasm of middle lobe of lung	February 2009
+54134	46	0	0	0	B223z00	Malignant neoplasm of middle lobe, bronchus or lung NOS	February 2009
+31188	836	6	0	0	B224.00	Malignant neoplasm of lower lobe, bronchus or lung	February 2009
+18678	240	0	0	0	B224000	Malignant neoplasm of lower lobe bronchus	February 2009
+12582	1527	14	0	0	B224100	Malignant neoplasm of lower lobe of lung	February 2009
+42566	180	0	0	0	B224z00	Malignant neoplasm of lower lobe, bronchus or lung NOS	February 2009
+36371	101	1	0	0	B225.00	Malignant neoplasm of overlapping lesion of bronchus & lung	February 2009
+7484	4421	113	0	0	B226.00	Mesothelioma	February 2009
+38961	456	2	0	0	B22y.00	Malignant neoplasm of other sites of bronchus or lung	February 2009
+3903	36631	1345	4	0	B22z.00	Malignant neoplasm of bronchus or lung NOS	February 2009
+2587	37449	1507	8	0	B22z.11	Lung cancer	February 2009

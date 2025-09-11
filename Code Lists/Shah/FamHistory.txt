@@ -1,0 +1,4 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+52058	82	0	0	0	ZV19A00	[V]Family history of diseases of the respiratory system	February 2009
+55457	181	0	0	0	ZV17600	[V]Family history of other chronic respiratory condition	February 2009
+32912	15555	17	0	0	122C.00	No family history of respiratory disease	February 2009

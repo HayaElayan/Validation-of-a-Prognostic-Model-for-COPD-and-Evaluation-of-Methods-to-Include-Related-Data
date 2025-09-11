@@ -1,0 +1,5 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+38110	2089	3	0	0	A11z.00	Pulmonary tuberculosis NOS	February 2009
+635	35479	651	4	0	A11..00	Pulmonary tuberculosis	February 2009
+18206	2585	16	0	0	ZV12A00	[V] Personal history of pulmonary tuberculosis	February 2009
+18950	1841	16	0	0	A11y.00	Other specified pulmonary tuberculosis	February 2009

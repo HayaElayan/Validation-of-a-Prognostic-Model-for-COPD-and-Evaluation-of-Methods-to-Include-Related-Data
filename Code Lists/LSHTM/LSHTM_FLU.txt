@@ -1,0 +1,36 @@
+medcode,readcode,readterm,flu_vacc
+13025,U60K400,[X]Influenza vaccine causing adverse effects therapeutic use,1
+49070,F034G00,Post influenza vaccination encephalitis,1
+97941,65E2.00,Influenza vaccination given by other healthcare provider,1
+98183,65E9.00,PANDEMRIX - first influenza A (H1N1v) 2009 vaccination given,1
+98184,65EA.00,PANDEMRIX - second influenza A (H1N1v) 2009 vaccination give,1
+98203,65EB.00,PANDEMRIX - 1st flu A (H1N1v) 2009 vac by othr hlth provider,1
+98217,65E3.00,1st pandemic influenza vacc give by other healthcare providr,1
+98234,65E5.00,CELVAPAN - first influenza A (H1N1v) 2009 vaccination given,1
+98302,65E6.00,CELVAPAN - second influenza A (H1N1v) 2009 vaccination given,1
+98303,65E8.00,CELVAPAN - 2nd flu A (H1N1v) 2009 vacc by othr hlth provider,1
+98304,65EC.00,PANDEMRIX - 2nd flu A (H1N1v) 2009 vac by othr hlth provider,1
+98306,65E4.00,2nd pandemic influenza vacc give by other healthcare providr,1
+98449,65E7.00,CELVAPAN - 1st flu A (H1N1v) 2009 vacc by othr hlth provider,1
+105077,65E2000,Seasonal influenza vaccin given by other healthcare provider,1
+105195,65ED000,Seasonal influenza vaccination given by pharmacist,1
+106994,65EE000,Administration of first intranasal influenza vaccination,1
+106995,65EE100,Administration of second intranasal influenza vaccination,1
+107156,65EE.00,Administration of intranasal influenza vaccination,1
+107297,65ED100,Administration of first intranasal seasonal influenza vacc,1
+107315,65E0000,Administration of first intranasal pandemic influenza vacc,1
+107352,65ED300,Administration of second intranasal seasonal influenza vacc,1
+107413,65E2100,First intranasal seasonal flu vacc gvn by othr hlthcare prov,1
+107573,65ED200,Seasonal influenza vaccination given while hospital inpt,1
+107646,65E1000,Administration of second intranasal pandemic influenza vacc,1
+107730,65E2200,Secnd intranasal seasonal flu vacc gvn by othr hlthcare prov,1
+108772,65E3000,First intranasal pndmc influenza vcc gvn othr hlthcare prvdr,1
+110182,65E2400,1st intramuscular seasonal influenza vacc given by other HCP,1
+110219,65E2300,2nd intramuscular seasonal influenza vacc given by other HCP,1
+110854,65ED400,Administration of first inactivated seasonal influenza vacc,1
+111474,65ED600,First intranasal seasonal influenza vaccination given by pharmacist,1
+111708,65EEE00,	Administration of intranasal influenza vaccination,1
+111726,65ED800,	First inactivated seasonal influenza vaccination given by pharmacist,1
+112172,65ED500,Administration of second inactivated seasonal influenza vacc,1
+112318,65ED700,Second intranasal seasonal influenza vaccination given by pharmacist,1
+112490,65ED900,Second inactivated seasonal influenza vaccination given by pharmacist,1
